@@ -1,0 +1,17 @@
+/* External styling */
+
+button {
+    background-color: black;
+    color: blue;
+  }
+  
+  /* This styling will affect only html tags with id="btn-style" in them */
+  #btn-style {
+    background-color: red;
+    color: greenyellow;
+  }
+  
+  /* This styling will affect only html tags with class="btn-style" in them */
+  .btn-style {
+    background-color: darkgoldenrod;
+  }

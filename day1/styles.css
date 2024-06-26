@@ -1,0 +1,18 @@
+/* external styling */
+
+h1,
+button {
+  background-color: greenyellow;
+  font-size: 90px;
+  color: tomato;
+}
+
+/* This styling will affect only html tags with class="btn-style" in them */
+.btn-style {
+  background-color: cornflowerblue;
+}
+
+/* This styling will affect only html tags with class="btn-style2" in them */
+.btn-style2 {
+  background-color: cyan;
+}
